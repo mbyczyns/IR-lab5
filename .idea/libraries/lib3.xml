@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/httpclient-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/jetty-util-9.3.20.v20170531.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/jetty-servlet-9.3.20.v20170531.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/jetty-http-9.3.20.v20170531.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/jetty-io-9.3.20.v20170531.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/jetty-continuation-9.3.20.v20170531.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/replicator/lib/jetty-server-9.3.20.v20170531.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

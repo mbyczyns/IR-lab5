@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/analysis/morfologik/lib/morfologik-ukrainian-search-3.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/analysis/morfologik/lib/morfologik-fsa-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/analysis/morfologik/lib/morfologik-polish-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/analysis/morfologik/lib/morfologik-stemming-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

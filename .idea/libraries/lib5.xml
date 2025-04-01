@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/expressions/lib/antlr4-runtime-4.5.1-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/expressions/lib/asm-commons-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-7.2.1/lucene-7.2.1/expressions/lib/asm-5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
